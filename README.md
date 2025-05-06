@@ -8,11 +8,11 @@
 
 I’m passionate about building smart AI systems that solve real-world problems.
 
-🔧 Currently working on an **AI assistant chatbot** for one of the largest transport companies in France (**Keolis**) using **Python**, **Django**, **FastAPI**, **LLMs**, and **Azure**.
+🔧 Currently working on an **AI assistant chatbot** for one of the largest transport companies in France (**Keolis**) using **Python**, **Django**, **LLMs**, and **Azure**.
 
 💡 I love exploring the intersection of **machine learning**, **natural language processing**, and **cloud deployment** to build scalable, production-ready AI systems.
 
-🌍 Based in Paris, open to **full-time opportunities** in AI/ML engineering, backend engineering, or data-centric roles.
+🌍 Based in Paris, open to **full-time opportunities** in AI/ML engineering, LLM engineering, or data-centric roles.
 
 ---
 
@@ -21,7 +21,7 @@ I’m passionate about building smart AI systems that solve real-world problems.
 - 🐍 Python, FastAPI, Django
 - 🤖 Scikit-learn, PyTorch, Deep Learning
 - 🧠 LLMs, Langchain, Langraph
-- ☁️ Azure Cloud, Azure DevOps, GitHub Actions (CI/CD)
+- ☁️ Azure Cloud, Azure DevOps, MLflow, GitHub Actions (CI/CD)
 - 🐙 Git, GitHub, GitHub Actions
 - 📊 Machine Learning, NLP, Vector Databases
 
